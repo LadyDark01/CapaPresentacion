@@ -1,0 +1,13 @@
+C:\Users\D20B0755\source\repos\CapaPresent\CapaPresent\bin\Debug\CapaPresent.exe.config
+C:\Users\D20B0755\source\repos\CapaPresent\CapaPresent\bin\Debug\CapaPresent.exe
+C:\Users\D20B0755\source\repos\CapaPresent\CapaPresent\bin\Debug\CapaPresent.pdb
+C:\Users\D20B0755\source\repos\CapaPresent\CapaPresent\obj\Debug\CapaPresent.csproj.AssemblyReference.cache
+C:\Users\D20B0755\source\repos\CapaPresent\CapaPresent\obj\Debug\CapaPresent.csproj.SuggestedBindingRedirects.cache
+C:\Users\D20B0755\source\repos\CapaPresent\CapaPresent\obj\Debug\CapaPresent.Form1.resources
+C:\Users\D20B0755\source\repos\CapaPresent\CapaPresent\obj\Debug\CapaPresent.Properties.Resources.resources
+C:\Users\D20B0755\source\repos\CapaPresent\CapaPresent\obj\Debug\CapaPresent.csproj.GenerateResource.cache
+C:\Users\D20B0755\source\repos\CapaPresent\CapaPresent\obj\Debug\CapaPresent.csproj.CoreCompileInputs.cache
+C:\Users\D20B0755\source\repos\CapaPresent\CapaPresent\obj\Debug\CapaPresent.exe
+C:\Users\D20B0755\source\repos\CapaPresent\CapaPresent\obj\Debug\CapaPresent.pdb
+C:\Users\D20B0755\source\repos\CapaPresent\CapaPresent\obj\Debug\CapaPresent.Form2.resources
+C:\Users\D20B0755\source\repos\CapaPresent\CapaPresent\obj\Debug\CapaPresent.Form3.resources
